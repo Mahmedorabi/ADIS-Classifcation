@@ -107,7 +107,12 @@ print("Accuracy:", accuracy_score(y_test, y_pred))
 ```
 ## Evaluation of our model
 <div>
-   <img src="Grid ADIS.png" alt="Grid"/>
+   <img src="Grid ADIS.png" alt="Grid" title="Grid Matrix"  width="300" height="300"/>&nbsp;
+   <img src="Ada ADIS.png" alt="Ada"  width="300" height="300"/>&nbsp;
+</div>
+<div>
+    <img src="Random ADIS.png" alt="Random"  width="300" height="300"/>&nbsp;
+   <img src="xgbADIS.png" alt="xgb"  width="300" height="300"/>&nbsp;
 </div>
 
 ```
