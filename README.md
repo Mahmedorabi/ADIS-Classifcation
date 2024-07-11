@@ -106,10 +106,9 @@ print(confusion_matrix(y_test, y_pred))
 print("Accuracy:", accuracy_score(y_test, y_pred))
 ```
 ## Evaluation of our model
-![Image](https://github.com/Mahmedorabi/ADIS-Classifcation/assets/105740465/b193abc6-d638-4798-b9c6-d78a494bd36a.png)
-![Image](https://github.com/Mahmedorabi/ADIS-Classifcation/assets/105740465/522c74b2-4995-42e9-8c4a-9fa627c5e754.png)
-![Image](https://github.com/Mahmedorabi/ADIS-Classifcation/assets/105740465/c67c89a4-10cb-48b1-aa9b-642cd766c7dd.png)  
-![Image](https://github.com/Mahmedorabi/ADIS-Classifcation/assets/105740465/62e2cb12-4c17-4ae5-8c26-4665f6d0c312.png)
+<div>
+   <img src="Grid ADIS.png" alt="Grid"/>
+</div>
 
 ```
 Accuracy of DecisionTree is : 84.41358024691358%
